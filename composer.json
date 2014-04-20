@@ -1,0 +1,14 @@
+{
+    "name": "fission/fission-loader",
+    "description": "Fission's namespace Autoloader",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Workman",
+            "email": "jworkmandevelopment@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
